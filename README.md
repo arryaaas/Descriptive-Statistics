@@ -34,7 +34,7 @@ Visualisasi data menggunakan library [matplotlib](https://matplotlib.org/) yang 
 
 ## Video Penjelasan 
 
-Video penjelasan tentang Descriptive Statistic (Pengolahan dan Penyajian Data) dan Demo Programnya dapat dilihat [disini](https://youtu.be/DQyrIqbD0L0).
+Video penjelasan tentang Descriptive Statistics (Pengolahan dan Penyajian Data) dan Demo Programnya dapat dilihat [disini](https://youtu.be/DQyrIqbD0L0).
 
 ## Lisensi
 
