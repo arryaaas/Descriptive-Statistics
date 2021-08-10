@@ -21,9 +21,9 @@ Panjang Kelas| Diagram Ogive (untuk 4 tabel diatas)
 Visualisasi data menggunakan library [matplotlib](https://matplotlib.org/) yang dimiliki oleh Python. Data divisualisasikan menjadi 3 diagram, yaitu diangram histogram, diagram lingkaran, dan diagram ogive. Style yang digunakan dalam diagram berikut ialah [seaborn](https://seaborn.pydata.org/).
 
 <p>
-<img width="200px" src="https://github.com/arryaaas/Descriptive-Statistics/blob/main/image-1.png"/>
-<img width="200px" src="https://github.com/arryaaas/Descriptive-Statistics/blob/main/image-2.png"/>
-<img height="160px" src="https://github.com/arryaaas/Descriptive-Statistics/blob/main/image-3.png"/>
+<img width="200px" src="https://github.com/arryaaas/Descriptive-Statistics/blob/main/image/image-1.png"/>
+<img width="200px" src="https://github.com/arryaaas/Descriptive-Statistics/blob/main/image/image-2.png"/>
+<img height="160px" src="https://github.com/arryaaas/Descriptive-Statistics/blob/main/image/image-3.png"/>
 </p>
 
 ## Libraries
