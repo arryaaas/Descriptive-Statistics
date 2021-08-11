@@ -1,6 +1,6 @@
 # Descriptive-Statistics
 
-Descriptive Statistics merupakan dokumentasi dari pengolahan dan penyajian data. Data yang digunakan ialah data survei yang berjudul **"Berapa Menit Anda Ngoding Dalam Satu Minggu"**. Survei ini ditujukan bagi mahasiswa **Teknik Informatika UPN "Veteran" Jawa Timur**. Untuk data survei bisa dilihat [disini](https://github.com/arryaaas/Descriptive-Statistics/blob/main/scripts/survei.xlsx).
+Descriptive Statistics merupakan dokumentasi dari pengolahan dan penyajian data. Data yang digunakan ialah data survei yang berjudul **"Berapa Menit Anda Ngoding Dalam Satu Minggu"**. Survei ini ditujukan bagi mahasiswa **Teknik Informatika UPN "Veteran" Jawa Timur**. Untuk data survei bisa dilihat [disini](https://github.com/arryaaas/Descriptive-Statistics/blob/main/notebook/coding.csv).
 
 ## Fitur
 
